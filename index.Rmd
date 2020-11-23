@@ -13,38 +13,48 @@ biblio-style: apalike
 
 **XXXX Conference:**
 
-- **Time:** xx:00pm/xx/xx/xx 
-- **Venue:** The university of Auckland 303S-310 [Map]()
-- **Registartion:** yes/no 
-- **Hosted by:** [Host association website]() 
+- **Time:** 8:55 Tuesday 24/11/2020 Wednesday 25/11/2020
+- **Venue:** MLT2/303-102 [Map](https://cdn.auckland.ac.nz/assets/auckland/students/academic-information/exams-and-final-results/maps/city-campus.pdf)
+- **Registartion:** Yes
+- **Hosted by:** [NZSA](https://www.stats.org.nz/nzsa-unconference-november-2020/) 
 - **Organiser:** [Organiser Email]()
-- **Conference Schedule** [Link Here]()
+- **Conference Schedule** [Link Here](https://nzsa2020.nz/sched.php)
+- **Extra** AGM meeting at 12:30 [Link here](https://nzsa2020.nz/NZSA-AGM-2020-Agenda.pdf)
 
 **Keynote Speakers:**
 
-| Speaker      |topic         | Email        | Website      |
+| Speaker       |Topic<span style="color: white;">.............................</span>   | Email      | Website       |
 |:-------------|:-------------|:-------------|:-------------|
-| Joe Smith    |Pickles       | xx@gmail.com | [Uni](www.google.com)  |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| Chris Wild    | Education democratizing data and software Targeting the intersection |   |   |
+| Felipa Zabala | A framework to evaluate imputation strategies at Stats NZ |   |   |
+| Susmita Das   | A machine learning model to identify private dwellings from admin data |   |   | 
+| Simon Urbanek | Interactive Visualisation using RCloud |   |   |
+| Jason Wen     | Accessing evidence of firing pin impression by using machine learning | jwen246@aucklanduni.ac.nz |   |
+| Richard Penny | Modelling for COVID in Official Economic Time Series |   |   |
+|||||
+| Maree Luckman | A lifetime of data - Biometrics Technician to Senior Applied Statistician |   |   |
+| Andrew Balemi | There and back again: A statisticians journey into the `real world' and back to academia  |   |   |
+| Agnes Yongshi Deng | Designed experiments for tuning hyperparameters in machine learning algorithms | yongshi.deng@auckland.ac.nz |   |
+| Alistair Ramsden   | Testing the confidentiality of synthetic data for the Stats NZ Integrated Data Infrastructure (IDI) Population Explorer dataset |   |   |
+| Rory Ellis    | Using Bayesian Growth Models to Predict Grape Yield |   |   |
+| Martin Hazelton    | The Future of Statistics at New Zealand Universities  |   |   |
+|||||
+| Wilma Molano  | HLFS mode of collection: A journey due to COVID-19  |   |   |
+| Shanika Wickramasuriya   | Non-negative forecast reconciliation for forecasting hierarchical time series | s.wickramasuriya@auckland.ac.nz |   |
+| Claudia Rivera-Rodriguez | Optimal sampling allocation for outcome dependent designs in cluster-correlated data settings |   |   |
+| Martin Upsdell     | Estimating the time lag between predator abundance and prey abundance |   |   |
+|||||
+| Richard Arnold     | Statistics of Ambiguous Rotations |   |   |
+| Len Cook      | Missing in action - a statistical window on prisons |   |   |
+| Peter Mullins | War Stories | len_cook@xtra.co.nz | https://www.wgtn.ac.nz/igps/about-us/staff/senior-associates/mr-len-cook |
+| Thomas Lumley | Influence functions, and why you should care |   |   |
+| Beatrix Jones | Dimension reduction for imbedding high dimensional measurements into Bayesian Networks |   |   |
+| Alasdair Noble| A Bayesian approach to modelling of Phosphorus inputs to rivers from diffuse and point sources |   |   |
+| Andrew Sporle | Beyond the Integrated Data Infrastructure - building a strategic data resource for Aotearoa |   |   |
+| Azam Asanjarani    | Decision Making for Partially Observable Markov Processes |   |   |
 
-**interesting I have meet/noticed**
+
+**interesting people I have meet/noticed**
 
 | People       |Field/Job     | Contact      | Facts        |
 |:-------------|:-------------|:-------------|:-------------|

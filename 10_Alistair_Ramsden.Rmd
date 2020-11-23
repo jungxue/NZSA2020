@@ -1,0 +1,4 @@
+# Alistair Ramsden | Testing the confidentiality of synthetic data for the Stats NZ Integrated Data Infrastructure (IDI) Population Explorer dataset {-}
+
+## Subsection 
+
