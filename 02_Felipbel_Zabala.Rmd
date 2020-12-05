@@ -1,0 +1,50 @@
+# Felibel Zabala | A framework to evaluate imputation strategies at Stats NZ {-}
+
+## Subsection 
+
+chalenge of big data
+
+ereous and missing data
+Greater problem duing COVID
+
+treat and calculate using existing data
+
+
+Desired properties
+
+Predictive accuracy
+ranking accuracy
+distribution accuracy
+estimation accuracy
+imputation plausibility: impyationvalues that are plausible
+
+clean dataset to assess imputation
+
+response mechanism
+
+pearsons correlation, good impytation should have R2 close to 1
+
+Household Evalaution Survey 2015 first used 
+
+income, age sex etc+ demographics 
+
+imputation method
+Nearest neighbour mean impouation with error term
+
+Key variable: income
+
+Larger weight for more significant variables, 
+
+standarised codes for evaluation
+compuations of estimation of bias variance and mean square error
+
+felipa.zabala@stats.govt.nz
+
+
+
+
+
+
+
+
+

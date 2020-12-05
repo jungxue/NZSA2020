@@ -1,3 +1,0 @@
-# Felipa Zabala | A framework to evaluate imputation strategies at Stats NZ {-}
-
-## Subsection 

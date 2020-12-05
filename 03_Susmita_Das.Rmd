@@ -1,3 +1,42 @@
 # Susmita Das | A machine learning model to identify private dwellings from admin data {-}
 
-## Subsection 
+## Back ground
+
+census immuerate resident dwellimg and collect attributes
+
+can we not use census, instead use administravive data
+
+2018 had lower thane xpected response rate
+
+can we move into fullt administarvive census
+
+current collection method, address list, info to make sure address is up to date, 
+
+obj of study: model to predict private dwelling from administative data
+
+prison, businesss, not private dwelling
+
+**why predict dwelling**
+
+address will not tell you whether this is a dwelling or not
+
+address have insights 
+
+assumptions: every address is unique
+dwelling work as privcate residence
+address linked in admin data is current
+
+work with anomaised address for security reason
+
+need to dicide for threshld
+
+
+Future work
+
+more data source
+Assessment of assumptons
+selection of trainning and validation dataset
+
+
+
+

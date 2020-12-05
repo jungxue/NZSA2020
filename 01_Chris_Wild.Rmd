@@ -1,4 +1,91 @@
 # Chris Wild | Education, democratizing data, and software: Targeting the intersection {-}
 
-## Subsection 
+## **Democratising data: *EMPOWERING THE MANY**
+
+**Definition**
+
+Access, Capability can not do without another
+
+enable decision makers 
+
+IDI world leading data system
+
+Linkable
+
+**Problems**
+
+increasingly complex, less accessable
+
+use IDI to inform, promated by government
+
+technical barrier, not user friendly
+
+offocial stats increasingly not for the people, 
+
+administrative/business data 
+
+missing/incomplete data
+
+**What we can do about it**
+
+data informed decision to population
+
+once data is lost, you cannot get it back
+
+indigenous data sovereignty
+
+make sure data get used, in a positive way
+
+ITI
+Information access and governiance
+Translator 
+Imfrastrustur eto make it happen
+
+reduce technical barriers
+
+Paper: Indigenous data sovernity and policy
+
+
+
+## Wild
+
+Education vs software
+my thought: booking ticket example, use to have to go to agernts,now just app
+do it fast and good enough, better than slow and perfect
+
+enable people who coding is not a serius option
+enable practical cababilities
+
+gard school stuff, exposure in high school
+grad school sruff is something most people never learn about
+
+show and tell (graph an d summary)
+
+high level instructions
+default answers
+context aware choices
+
+beginner friendly
+
+Alot of advantage for coding
+
+Flexibilty, reproducibility, long run time friendly, history track, able to deal with large and complex data, 
+
+my thought:AI assisted Rstudio? Telling you what to do next, what options do you have, where seem to have typo/bug, auto alignment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

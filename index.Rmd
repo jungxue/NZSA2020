@@ -58,9 +58,7 @@ biblio-style: apalike
 
 | People       |Field/Job     | Contact      | Facts        |
 |:-------------|:-------------|:-------------|:-------------|
-| Joe Smith    | Consultant @ UoA  | xx@gmail.com | His from New Caledonia |
-|   |   |   |   |
-|   |   |   |   |
+| Anna?    | PhD @ Otago  |  | Likes Pythagoras and median theory, works on musclefiber study |
 
 
 Note: All information disclosed within this conference e-note are intented for personal use. 

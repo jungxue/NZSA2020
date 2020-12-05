@@ -1,4 +1,42 @@
 # Richard Penny | Modelling for COVID in Official Economic Time Series {-}
 
-## Subsection 
+## NZSTATS
+
+5000 time series per quarter
+must be robust and automated
+
+mainly seasonally adjusted trend and estimated
+
+TS expert adjust variables, result for users
+
+time series must be consistent, people hated change
+
+need to do things right the forst time
+
+COVID affect different places at different time
+
+RegARIMA,
+
+add a covid variable B_iX_it
+
+possible covid effects outlier, level shift, ramp, step functoion
+
+not enough data, noise, etc made it hard to identify the trend
+
+red flages, covid values made so much impact seasonality started to signii=ficantly shift 
+
+visitor arrivals goes to 0
+
+we cannot assume any model for COVID priod, and may have profound long term effect for future arrivals
+
+what can we expect 
+
+seasonal breaks
+
+merging data? 
+
+North and south hemisphere seasonality??
+
+
+
 

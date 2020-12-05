@@ -2,3 +2,25 @@
 
 ## Subsection 
 
+Image processing to improvedata quality
+
+ie zoom in area of interest
+
+histogram equalization (improve contrast)
+
+noise reduction using filters
+
+mage enhancing algorithms
+
+summarise feature into 1 d
+
+histogram of orientated gradient (HOG)
+
+gain 2 d image gradient turninto a histogram
+
+hetrogenity, image from same sourece more similar
+
+local HOg feature comparison
+
+
+

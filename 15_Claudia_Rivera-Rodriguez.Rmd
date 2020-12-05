@@ -1,4 +1,13 @@
 # Claudia Rivera-Rodriguez | Optimal sampling allocation for outcome dependent designs in cluster-correlated data settings {-}
 
-## Subsection 
+## intro
 
+Allocation => given N, how many do we sample?
+
+we are interested in regression 
+
+weighted genealised estimating equation
+
+remind your self about minimizing 
+
+My thought: can tables be more concise and clear compare to multipple similar plots?(ie heat map)

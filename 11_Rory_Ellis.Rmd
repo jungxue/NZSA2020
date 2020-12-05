@@ -1,4 +1,29 @@
 # Rory Ellis | Using Bayesian Growth Models to Predict Grape Yield {-}
 
-## Subsection 
+Prediction of grape yield base on seasonal factors and industry practiss
+
+
+Grape vie 2 year cycle
+
+assume no neg
+
+tak log response
+
+double sigmoidal model
+
+impact of incorporating historical data
+
+less volitalitywhen incorporating historical data
+
+Vague prior , informed prior 
+
+Bayesian model is sensitive to prior assumptions
+
+tradeo off in early and late year predictions
+
+idea of the bucket problem
+
+loses of v ariation between indic=vidual masses, 
+
+Maybe check out his papers
 
